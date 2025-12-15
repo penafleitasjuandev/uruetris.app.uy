@@ -1,1 +1,0 @@
-# uruetris.app.uy
